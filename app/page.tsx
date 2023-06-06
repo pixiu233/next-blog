@@ -51,7 +51,7 @@ export default function Home() {
             >
               <b>宋斯凯,</b>
             </span>
-            一个喜欢React的前端开发工程师
+            一个喜欢React的前端开发工程师。
           </div>
           <div className="leading-8  pt-1 pb-4">
             You can find me on WeChat and GitHub — check out my bio for more
